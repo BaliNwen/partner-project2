@@ -1,0 +1,25 @@
+{
+    "name": "Partner Project/2",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Partner Project": "github:balinwen/partner-project#ef80942f486b69ecd9004c88420bf811be80c0aa"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
